@@ -21,7 +21,7 @@ class ResourceAllocator:
         self.window_limit = window_limit
 
     def get_resource_index(self):
-        """
+        """ 
         Returns index of the resource to use for making requests to get data
         if none of the resources are available, then send number of seconds until the resource is not available
         :return: Index resource if available otherwise time until none of the resources are available
