@@ -48,6 +48,7 @@ def get_key_index():
     except Exception as ex:
         print(ex)
 
+    
     return jsonify({'result': 500})
 
 
