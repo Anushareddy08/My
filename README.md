@@ -5,8 +5,6 @@
 
 ## Overview  
 
-Complete dataset cannot be distributed because of Twitter privacy policies and news publisher copy rights.  Social engagements and user information are not disclosed because of Twitter Policy. This code repository can be used to download news articles from published websites and relevant social media data from Twitter. 
-
 The minimalistic version of latest dataset provided in this repo (located in `dataset` folder) include following files:
 
  - `politifact_fake.csv` -  Samples related to fake news collected from PolitiFact 
