@@ -9,7 +9,7 @@ from util.util import create_dir, Config, multiprocess_data_collection
 
 from util.util import DataCollector
 from util import Constants
-
+ 
 
 def dump_retweets_job(tweet: Tweet, config: Config, twython_connector: TwythonConnector):
     retweets = []
