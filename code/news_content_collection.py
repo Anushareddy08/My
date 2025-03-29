@@ -10,7 +10,7 @@ from util.util import DataCollector
 from util.util import Config, create_dir
 from util import Constants
 
-
+ 
 def crawl_link_article(url):
     result_json = None
 
